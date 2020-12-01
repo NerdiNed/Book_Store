@@ -1,4 +1,4 @@
 # Book_Store / react
-online book store, created for two databases: MongoDB &amp; MySQL
+online book store, created for two databases: MongoDB using mongoose &amp; MySQL
 
 first created with nodeJs and ejs then transfered into react &amp; redux
